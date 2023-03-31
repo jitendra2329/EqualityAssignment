@@ -1,4 +1,5 @@
 package com.knoldus
+
 import org.scalatest.funsuite.AnyFunSuite
 
 class ListOperatorTest extends AnyFunSuite {
